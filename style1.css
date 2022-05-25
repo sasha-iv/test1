@@ -11,3 +11,6 @@ li {
     color: blue;
     font-size: 20px;
 }
+.first li {
+    color: gold;
+}
